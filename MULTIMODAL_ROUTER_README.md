@@ -1,0 +1,5 @@
+1) FOR Routing , the test.py initially uses the Matrix Factorization Router in the folde routers for routing our given query.
+2) Every query is converted into text embeddings before it is routed, we are skipping this embedding by replacing it with the embeddings obtained from our image.
+3) so essentially the routing happens according to the image embeddings
+4) The problem is that for model inference, we cannot use gpt 4-o or 4-o mini and give it embeddings or image input, it only works with text input. So the routing is done with the image embedding but inference can still be done with the image caption. 
+5) We can have a data with 1000 images where we route all the captions and their model and then route according to the image embeddings of that image. Ideally if the routeLLM works equally well with images, we should have same output for both the caption and the image embeddings. We'll have the data of the number of cases from 1000 where this data is the same. ->which is what I am working on at present. It will show how effective routeLLM is if we present it with image embeddings instaed of text.
