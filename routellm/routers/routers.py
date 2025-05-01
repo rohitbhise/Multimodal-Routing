@@ -14,6 +14,7 @@ from routellm.routers.causal_llm.llm_utils import (
     to_openai_api_messages,
 )
 from routellm.routers.causal_llm.model import CausalLLMClassifier
+from routellm.routers.multimodal_matrix_factorization.model import MODEL_IDS, MM_MFModel
 from routellm.routers.matrix_factorization.model import MODEL_IDS, MFModel
 from routellm.routers.similarity_weighted.utils import (
     OPENAI_CLIENT,
@@ -240,6 +241,42 @@ class MatrixFactorizationRouter(Router):
             self.strong_model_id, self.weak_model_id, prompt
         )
         return winrate
+    
+
+@no_parallel
+class MultiModalMatrixFactorizationRouter(Router):
+    def __init__(
+        self,
+        checkpoint_path,
+        # This is the model pair for scoring at inference time,
+        # and can be different from the model pair used for routing.
+        strong_model="gpt-4-1106-preview",
+        weak_model="mixtral-8x7b-instruct-v0.1",
+        hidden_size=128,
+        num_models=64,
+        text_dim=1536,
+        num_classes=1,
+        use_proj=True,
+    ):
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+        self.model = MM_MFModel.from_pretrained(
+            checkpoint_path,
+            dim=hidden_size,
+            num_models=num_models,
+            text_dim=text_dim,
+            num_classes=num_classes,
+            use_proj=use_proj,
+        )
+        self.model = self.model.eval().to(device)
+        self.strong_model_id = MODEL_IDS[strong_model]
+        self.weak_model_id = MODEL_IDS[weak_model]
+
+    def calculate_strong_win_rate(self, prompt):
+        winrate = self.model.pred_win_rate(
+            self.strong_model_id, self.weak_model_id, prompt
+        )
+        return winrate
 
 
 # Parallelism makes the randomness non deterministic
@@ -259,5 +296,6 @@ ROUTER_CLS = {
     "causal_llm": CausalLLMRouter,
     "bert": BERTRouter,
     "sw_ranking": SWRankingRouter,
+    "mm_mf": MM_MFModel,
 }
 NAME_TO_CLS = {v: k for k, v in ROUTER_CLS.items()}

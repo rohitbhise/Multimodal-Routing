@@ -75,7 +75,7 @@ MODEL_IDS = {
 }
 
 
-class MFModel(torch.nn.Module, PyTorchModelHubMixin):
+class MM_MFModel(torch.nn.Module, PyTorchModelHubMixin):
     def __init__(
         self,
         dim,

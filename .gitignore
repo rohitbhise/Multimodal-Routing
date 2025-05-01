@@ -1,6 +1,7 @@
 # RouteLLM specific
 routellm/evals/**/cache.npy
-
+#venv
+myenv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

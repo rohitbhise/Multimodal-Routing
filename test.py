@@ -1,6 +1,7 @@
 import os
 
-#add open ai key here as os.environ value
+#add key
+
 from routellm.controller import Controller
 
 
@@ -16,4 +17,4 @@ response = client.chat.completions.create(
 )
 
 print(response.model)
-print(response.choices[0].message.content)
+# print(response.choices[0].message.content)
