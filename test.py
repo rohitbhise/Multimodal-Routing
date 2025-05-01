@@ -2,6 +2,8 @@ import os
 
 #add key
 
+
+
 from routellm.controller import Controller
 
 
@@ -13,7 +15,7 @@ client = Controller(
 
 response = client.chat.completions.create(
     model="router-mf-0.1",
-    messages=[{"role": "user", "content": "Explain black holes simply."}]
+    messages=[{"role": "user", "content": "a baseball player swinging at a ball during a game"}]
 )
 
 print(response.model)

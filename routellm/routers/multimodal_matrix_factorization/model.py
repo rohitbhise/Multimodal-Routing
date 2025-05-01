@@ -116,20 +116,18 @@ class MM_MFModel(torch.nn.Module, PyTorchModelHubMixin):
         with open("embeddings.json", "r") as f:
             data = json.load(f)
 
-        # Extract all embedding arrays
+        # code to use if we are directly inserting embeddings from json
         embeddings = [item["embedding"] for item in data]
 
-        # print(embeddings)
 
+        #code to use if we are using original routing
         # prompt_embed = (
         #     OPENAI_CLIENT.embeddings.create(input=[prompt], model=self.embedding_model)
         #     .data[0]
         #     .embedding
         # )
-        embeddings = torch.tensor(embeddings, device=self.get_device())
-        expand_proj = nn.Linear(384, 1536)
-        new_embed = expand_proj(embeddings)
-        prompt_embed = torch.tensor(new_embed, device=self.get_device())
+
+        prompt_embed = torch.tensor(embeddings, device=self.get_device())
         prompt_embed = self.text_proj(prompt_embed)
 
         return self.classifier(model_embed * prompt_embed).squeeze()

@@ -113,23 +113,23 @@ class MFModel(torch.nn.Module, PyTorchModelHubMixin):
         model_embed = self.P(model_id)
         model_embed = torch.nn.functional.normalize(model_embed, p=2, dim=1)
         # Load JSON data from file
-        with open("embeddings.json", "r") as f:
-            data = json.load(f)
+        # with open("embeddings.json", "r") as f:
+        #     data = json.load(f)
 
-        # Extract all embedding arrays
-        embeddings = [item["embedding"] for item in data]
+        # # Extract all embedding arrays
+        # embeddings = [item["embedding"] for item in data]
 
         # print(embeddings)
 
-        # prompt_embed = (
-        #     OPENAI_CLIENT.embeddings.create(input=[prompt], model=self.embedding_model)
-        #     .data[0]
-        #     .embedding
-        # )
-        embeddings = torch.tensor(embeddings, device=self.get_device())
-        expand_proj = nn.Linear(384, 1536)
-        new_embed = expand_proj(embeddings)
-        prompt_embed = torch.tensor(new_embed, device=self.get_device())
+        prompt_embed = (
+            OPENAI_CLIENT.embeddings.create(input=[prompt], model=self.embedding_model)
+            .data[0]
+            .embedding
+        )
+        # embeddings = torch.tensor(embeddings, device=self.get_device())
+        # expand_proj = nn.Linear(384, 1536)
+        # new_embed = expand_proj(embeddings)
+        prompt_embed = torch.tensor(prompt_embed, device=self.get_device())
         prompt_embed = self.text_proj(prompt_embed)
 
         return self.classifier(model_embed * prompt_embed).squeeze()
