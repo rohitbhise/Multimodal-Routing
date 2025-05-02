@@ -1,0 +1,79 @@
+[
+  {
+    "filename": "000000001353.jpg",
+    "caption": "a group of people riding on a red train",
+    "api_model": "gpt-4-1106-preview",
+    "api_routed": "strong",
+    "mf_routed": "weak"
+  },
+  {
+    "filename": "000000001425.jpg",
+    "caption": "a plate with a sandwich on it",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000001503.jpg",
+    "caption": "a white desk",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000002149.jpg",
+    "caption": "a bowl of green apples sitting on a table",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000003661.jpg",
+    "caption": "a bunch of bananas",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000006012.jpg",
+    "caption": "a bunch of bananas",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000007281.jpg",
+    "caption": "a man riding a horse",
+    "api_model": "gpt-4-1106-preview",
+    "api_routed": "strong",
+    "mf_routed": "weak"
+  },
+  {
+    "filename": "000000007574.jpg",
+    "caption": "a kitchen with a sink and a refrigerator",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000007991.jpg",
+    "caption": "a bowl of carrots",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000008277.jpg",
+    "caption": "a white plate with food on it",
+    "api_model": "gpt-3.5-turbo-1106",
+    "api_routed": "weak",
+    "mf_routed": "strong"
+  },
+  {
+    "filename": "000000009772.jpg",
+    "caption": "a bathroom with a large mirror and a bathtub",
+    "api_model": "gpt-4-1106-preview",
+    "api_routed": "strong",
+    "mf_routed": "weak"
+  }
+]

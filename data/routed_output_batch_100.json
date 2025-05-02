@@ -1,0 +1,602 @@
+[
+  {
+    "filename": "000000000139.jpg",
+    "caption": "a living room with a television and a fireplace",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000285.jpg",
+    "caption": "a brown bear sitting in the grass",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000632.jpg",
+    "caption": "a bedroom with a bed and a window",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000724.jpg",
+    "caption": "a stop sign on a street corner",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000776.jpg",
+    "caption": "a brown teddy bear",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000785.jpg",
+    "caption": "a woman in a red jacket skiing down a hill",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000802.jpg",
+    "caption": "a kitchen with a white refrigerator and a white stove",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000872.jpg",
+    "caption": "a man in a baseball uniform",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000000885.jpg",
+    "caption": "a man playing tennis",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001000.jpg",
+    "caption": "a group of kids",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001268.jpg",
+    "caption": "a woman taking a picture of a swan",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001296.jpg",
+    "caption": "a woman holding a cell phone",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001353.jpg",
+    "caption": "a group of people riding on a red train",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001425.jpg",
+    "caption": "a plate with a sandwich on it",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000001490.jpg",
+    "caption": "a man on a surfboard",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001503.jpg",
+    "caption": "a white desk",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000001532.jpg",
+    "caption": "a freeway with a bunch of cars driving underneath",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001584.jpg",
+    "caption": "a red double decker bus driving down a street",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001675.jpg",
+    "caption": "a black and white cat sitting on a computer",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001761.jpg",
+    "caption": "a bridge over the water",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001818.jpg",
+    "caption": "a zebra eating grass",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000001993.jpg",
+    "caption": "a bedroom with a bed and a table",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002006.jpg",
+    "caption": "a purple bus is driving down the street",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002149.jpg",
+    "caption": "a bowl of green apples sitting on a table",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000002153.jpg",
+    "caption": "a baseball player swinging at a ball during a game",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002157.jpg",
+    "caption": "a red table cloth",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002261.jpg",
+    "caption": "a man in the water",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002299.jpg",
+    "caption": "a group of children",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002431.jpg",
+    "caption": "a plate with a knife and a bowl of food",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002473.jpg",
+    "caption": "a person jumping in the air on skis",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002532.jpg",
+    "caption": "a person on skis on a snowy slope",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002587.jpg",
+    "caption": "a banana and a banana in a bag",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002592.jpg",
+    "caption": "a knife and a mug on a table",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002685.jpg",
+    "caption": "a group of people standing around a kitchen",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000002923.jpg",
+    "caption": "a field of tall grass",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003156.jpg",
+    "caption": "a man sitting on a toilet",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003255.jpg",
+    "caption": "a group of people skiing down a snowy mountain",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003501.jpg",
+    "caption": "a bowl of rice and broccote",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003553.jpg",
+    "caption": "a person is skateboarding on a wooden ramp",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003661.jpg",
+    "caption": "a bunch of bananas",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000003845.jpg",
+    "caption": "a plate of food on a table",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000003934.jpg",
+    "caption": "a woman and a child playing with a remote",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000004134.jpg",
+    "caption": "two men shaking hands",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000004395.jpg",
+    "caption": "a man in a white shirt and tie",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000004495.jpg",
+    "caption": "a living room with a couch and a television",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000004765.jpg",
+    "caption": "a man on a surfboard",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000004795.jpg",
+    "caption": "a cat sitting on a desk next to a laptop",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005001.jpg",
+    "caption": "a group of people",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005037.jpg",
+    "caption": "a bus on the road",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005060.jpg",
+    "caption": "a man sitting on the floor taking a picture of himself",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005193.jpg",
+    "caption": "a group of people standing around a surf board",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005477.jpg",
+    "caption": "a plane on the runway",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005503.jpg",
+    "caption": "a person is sitting on a toilet seat",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005529.jpg",
+    "caption": "a man skiing down a snowy slope",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005586.jpg",
+    "caption": "a tennis player is on the court",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005600.jpg",
+    "caption": "a plate of food",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000005992.jpg",
+    "caption": "the sheep are standing",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006012.jpg",
+    "caption": "a bunch of bananas",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000006040.jpg",
+    "caption": "a blue and white train",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006213.jpg",
+    "caption": "a bathroom with a sink, mirror, and shower",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006460.jpg",
+    "caption": "a surfer is riding a wave in the ocean",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006471.jpg",
+    "caption": "a baseball player holding a bat",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006614.jpg",
+    "caption": "a bunch of fruit",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006723.jpg",
+    "caption": "a street with a few buildings and a few cars",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006763.jpg",
+    "caption": "a man and woman sitting at a table",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006771.jpg",
+    "caption": "a woman in a costume",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006818.jpg",
+    "caption": "a bathroom with a toilet and a bucket",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006894.jpg",
+    "caption": "a man is standing next to an elephant",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000006954.jpg",
+    "caption": "a group of children sitting on the grass",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007088.jpg",
+    "caption": "a little girl holding an umbrella in the rain",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007108.jpg",
+    "caption": "the elephant is brown",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007278.jpg",
+    "caption": "a man on a surfboard riding a wave",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007281.jpg",
+    "caption": "a man riding a horse",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007386.jpg",
+    "caption": "a motorcycle parked in front of a garage",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007511.jpg",
+    "caption": "a man flying a kite on a beach",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007574.jpg",
+    "caption": "a kitchen with a sink and a refrigerator",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000007784.jpg",
+    "caption": "a person is parading in the sky",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007795.jpg",
+    "caption": "two beds in a room",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007816.jpg",
+    "caption": "a person riding a motorcycle down a road",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007818.jpg",
+    "caption": "a vase with flowers",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007888.jpg",
+    "caption": "a clock on a pole",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007977.jpg",
+    "caption": "a man riding a skateboard on a cement surface",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000007991.jpg",
+    "caption": "a bowl of carrots",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000008021.jpg",
+    "caption": "a man in a suit",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008211.jpg",
+    "caption": "a man sitting on a bench",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008277.jpg",
+    "caption": "a white plate with food on it",
+    "chosen_model": "gpt-3.5-turbo-1106",
+    "model_strength": "weak"
+  },
+  {
+    "filename": "000000008532.jpg",
+    "caption": "a man wearing a hat and glasses",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008629.jpg",
+    "caption": "a col of pictures of a slice of pizza",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008690.jpg",
+    "caption": "a goat and a girl",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008762.jpg",
+    "caption": "a street light at night with a street sign",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008844.jpg",
+    "caption": "a woman smiles as she stands in front of a bunch of bananas",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000008899.jpg",
+    "caption": "a fire hydrant in front of a building with graffiti on it",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009378.jpg",
+    "caption": "a man with long hair",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009400.jpg",
+    "caption": "a group of people sitting around a table with laptops",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009448.jpg",
+    "caption": "a little girl holding an umbrella",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009483.jpg",
+    "caption": "a man standing in front of a desk with a laptop",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009590.jpg",
+    "caption": "a group of people sitting around a table",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009769.jpg",
+    "caption": "a red truck is parked on a snowy street",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009772.jpg",
+    "caption": "a bathroom with a large mirror and a bathtub",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  },
+  {
+    "filename": "000000009891.jpg",
+    "caption": "a man pushing a luggage cart",
+    "chosen_model": "gpt-4-1106-preview",
+    "model_strength": "strong"
+  }
+]

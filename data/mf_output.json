@@ -1,0 +1,1202 @@
+[
+  {
+    "filename": "000000000139.jpg",
+    "caption": "a living room with a television and a fireplace",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000285.jpg",
+    "caption": "a brown bear sitting in the grass",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000632.jpg",
+    "caption": "a bedroom with a bed and a window",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000724.jpg",
+    "caption": "a stop sign on a street corner",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000776.jpg",
+    "caption": "a brown teddy bear",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000785.jpg",
+    "caption": "a woman in a red jacket skiing down a hill",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000802.jpg",
+    "caption": "a kitchen with a white refrigerator and a white stove",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000872.jpg",
+    "caption": "a man in a baseball uniform",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000000885.jpg",
+    "caption": "a man playing tennis",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001000.jpg",
+    "caption": "a group of kids",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001268.jpg",
+    "caption": "a woman taking a picture of a swan",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001296.jpg",
+    "caption": "a woman holding a cell phone",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001353.jpg",
+    "caption": "a group of people riding on a red train",
+    "winrate_strong": 0.5,
+    "routed_model": "weak"
+  },
+  {
+    "filename": "000000001425.jpg",
+    "caption": "a plate with a sandwich on it",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001490.jpg",
+    "caption": "a man on a surfboard",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001503.jpg",
+    "caption": "a white desk",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001532.jpg",
+    "caption": "a freeway with a bunch of cars driving underneath",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001584.jpg",
+    "caption": "a red double decker bus driving down a street",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001675.jpg",
+    "caption": "a black and white cat sitting on a computer",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001761.jpg",
+    "caption": "a bridge over the water",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001818.jpg",
+    "caption": "a zebra eating grass",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000001993.jpg",
+    "caption": "a bedroom with a bed and a table",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002006.jpg",
+    "caption": "a purple bus is driving down the street",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002149.jpg",
+    "caption": "a bowl of green apples sitting on a table",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002153.jpg",
+    "caption": "a baseball player swinging at a ball during a game",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002157.jpg",
+    "caption": "a red table cloth",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002261.jpg",
+    "caption": "a man in the water",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002299.jpg",
+    "caption": "a group of children",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002431.jpg",
+    "caption": "a plate with a knife and a bowl of food",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002473.jpg",
+    "caption": "a person jumping in the air on skis",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002532.jpg",
+    "caption": "a person on skis on a snowy slope",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002587.jpg",
+    "caption": "a banana and a banana in a bag",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002592.jpg",
+    "caption": "a knife and a mug on a table",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002685.jpg",
+    "caption": "a group of people standing around a kitchen",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000002923.jpg",
+    "caption": "a field of tall grass",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003156.jpg",
+    "caption": "a man sitting on a toilet",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003255.jpg",
+    "caption": "a group of people skiing down a snowy mountain",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003501.jpg",
+    "caption": "a bowl of rice and broccote",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003553.jpg",
+    "caption": "a person is skateboarding on a wooden ramp",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003661.jpg",
+    "caption": "a bunch of bananas",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003845.jpg",
+    "caption": "a plate of food on a table",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000003934.jpg",
+    "caption": "a woman and a child playing with a remote",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000004134.jpg",
+    "caption": "two men shaking hands",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000004395.jpg",
+    "caption": "a man in a white shirt and tie",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000004495.jpg",
+    "caption": "a living room with a couch and a television",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000004765.jpg",
+    "caption": "a man on a surfboard",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000004795.jpg",
+    "caption": "a cat sitting on a desk next to a laptop",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005001.jpg",
+    "caption": "a group of people",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005037.jpg",
+    "caption": "a bus on the road",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005060.jpg",
+    "caption": "a man sitting on the floor taking a picture of himself",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005193.jpg",
+    "caption": "a group of people standing around a surf board",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005477.jpg",
+    "caption": "a plane on the runway",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005503.jpg",
+    "caption": "a person is sitting on a toilet seat",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005529.jpg",
+    "caption": "a man skiing down a snowy slope",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005586.jpg",
+    "caption": "a tennis player is on the court",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005600.jpg",
+    "caption": "a plate of food",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000005992.jpg",
+    "caption": "the sheep are standing",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006012.jpg",
+    "caption": "a bunch of bananas",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006040.jpg",
+    "caption": "a blue and white train",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006213.jpg",
+    "caption": "a bathroom with a sink, mirror, and shower",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006460.jpg",
+    "caption": "a surfer is riding a wave in the ocean",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006471.jpg",
+    "caption": "a baseball player holding a bat",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006614.jpg",
+    "caption": "a bunch of fruit",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006723.jpg",
+    "caption": "a street with a few buildings and a few cars",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006763.jpg",
+    "caption": "a man and woman sitting at a table",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006771.jpg",
+    "caption": "a woman in a costume",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006818.jpg",
+    "caption": "a bathroom with a toilet and a bucket",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006894.jpg",
+    "caption": "a man is standing next to an elephant",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000006954.jpg",
+    "caption": "a group of children sitting on the grass",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007088.jpg",
+    "caption": "a little girl holding an umbrella in the rain",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007108.jpg",
+    "caption": "the elephant is brown",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007278.jpg",
+    "caption": "a man on a surfboard riding a wave",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007281.jpg",
+    "caption": "a man riding a horse",
+    "winrate_strong": 0.5,
+    "routed_model": "weak"
+  },
+  {
+    "filename": "000000007386.jpg",
+    "caption": "a motorcycle parked in front of a garage",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007511.jpg",
+    "caption": "a man flying a kite on a beach",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007574.jpg",
+    "caption": "a kitchen with a sink and a refrigerator",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007784.jpg",
+    "caption": "a person is parading in the sky",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007795.jpg",
+    "caption": "two beds in a room",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007816.jpg",
+    "caption": "a person riding a motorcycle down a road",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007818.jpg",
+    "caption": "a vase with flowers",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007888.jpg",
+    "caption": "a clock on a pole",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007977.jpg",
+    "caption": "a man riding a skateboard on a cement surface",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000007991.jpg",
+    "caption": "a bowl of carrots",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008021.jpg",
+    "caption": "a man in a suit",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008211.jpg",
+    "caption": "a man sitting on a bench",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008277.jpg",
+    "caption": "a white plate with food on it",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008532.jpg",
+    "caption": "a man wearing a hat and glasses",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008629.jpg",
+    "caption": "a col of pictures of a slice of pizza",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008690.jpg",
+    "caption": "a goat and a girl",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008762.jpg",
+    "caption": "a street light at night with a street sign",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008844.jpg",
+    "caption": "a woman smiles as she stands in front of a bunch of bananas",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000008899.jpg",
+    "caption": "a fire hydrant in front of a building with graffiti on it",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009378.jpg",
+    "caption": "a man with long hair",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009400.jpg",
+    "caption": "a group of people sitting around a table with laptops",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009448.jpg",
+    "caption": "a little girl holding an umbrella",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009483.jpg",
+    "caption": "a man standing in front of a desk with a laptop",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009590.jpg",
+    "caption": "a group of people sitting around a table",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009769.jpg",
+    "caption": "a red truck is parked on a snowy street",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009772.jpg",
+    "caption": "a bathroom with a large mirror and a bathtub",
+    "winrate_strong": 0.5,
+    "routed_model": "weak"
+  },
+  {
+    "filename": "000000009891.jpg",
+    "caption": "a man pushing a luggage cart",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000009914.jpg",
+    "caption": "a plate of food with a sandwich and a salad",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010092.jpg",
+    "caption": "a bed in a room with a mosquito net",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010363.jpg",
+    "caption": "a cat standing on top of a car",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010583.jpg",
+    "caption": "a plate of food with meat and grade",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010707.jpg",
+    "caption": "a man playing a video game",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010764.jpg",
+    "caption": "a baseball player kneeling on the base",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010977.jpg",
+    "caption": "a bathroom with a toilet, sink and tub",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000010995.jpg",
+    "caption": "a bed with a plaid blanket",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011051.jpg",
+    "caption": "a woman in a black dress",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011122.jpg",
+    "caption": "a stop sign is behind a chain link fence",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011149.jpg",
+    "caption": "a man standing next to a parked bike",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011197.jpg",
+    "caption": "a man standing on the sidewalk",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011511.jpg",
+    "caption": "a statue of a woman",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011615.jpg",
+    "caption": "a street sign with several different street signs",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011699.jpg",
+    "caption": "two women standing next to each other women",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011760.jpg",
+    "caption": "two zebras standing in a field",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000011813.jpg",
+    "caption": "a laptop on a tripod",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012062.jpg",
+    "caption": "a sheep is standing in a pen",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012120.jpg",
+    "caption": "a tennis match is being played on a blue court",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012280.jpg",
+    "caption": "a woman walking through a glass door with a suitcase",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012576.jpg",
+    "caption": "a pizza on a table",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012639.jpg",
+    "caption": "a young boy swinging a bat at a baseball game",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012667.jpg",
+    "caption": "a banana on a telephone receiver on a desk",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012670.jpg",
+    "caption": "a crowd of people walking down a street",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000012748.jpg",
+    "caption": "a man holding a baby",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013004.jpg",
+    "caption": "a white plate with a banana on it",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013177.jpg",
+    "caption": "a man working on a motorcycle",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013201.jpg",
+    "caption": "a man on a skateboard",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013291.jpg",
+    "caption": "a group of people playing frc",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013348.jpg",
+    "caption": "a white plane",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013546.jpg",
+    "caption": "a man riding a skateboard down a cement wall",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013597.jpg",
+    "caption": "a piece of chocolate cake on a plate",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013659.jpg",
+    "caption": "a man working on a laptop computer",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013729.jpg",
+    "caption": "a group of people playing a video game",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013774.jpg",
+    "caption": "a person standing on a beach with a froth of water",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000013923.jpg",
+    "caption": "a living room with a table and chairs",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014007.jpg",
+    "caption": "a cat sitting on top of a refrigerator",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014038.jpg",
+    "caption": "a room with a lot of clutter",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014226.jpg",
+    "caption": "a man sitting in a train looking at his laptop",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014380.jpg",
+    "caption": "a train on the tracks",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014439.jpg",
+    "caption": "a group of people flying kites in a park",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014473.jpg",
+    "caption": "a model train on a track with people standing around",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014831.jpg",
+    "caption": "a cat is sitting on a bed",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000014888.jpg",
+    "caption": "a cow with its head down",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015079.jpg",
+    "caption": "a plate with a sandwich on it",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015254.jpg",
+    "caption": "a plastic container with food in it",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015272.jpg",
+    "caption": "a traffic light is on a pole in front of a tree",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015278.jpg",
+    "caption": "a plate of food with brocco and brocco",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015335.jpg",
+    "caption": "a group of people sitting at a table eating",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015338.jpg",
+    "caption": "a bus on the road",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015440.jpg",
+    "caption": "a stop sign on a street corner with a building in the background",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015497.jpg",
+    "caption": "a cat laying on a black couch next to a computer mouse",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015517.jpg",
+    "caption": "a city street with a bus and a bus stop",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015597.jpg",
+    "caption": "a man on a skateboard",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015660.jpg",
+    "caption": "a man is winds surfing in the ocean",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015746.jpg",
+    "caption": "a fire hydrant in the grass",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015751.jpg",
+    "caption": "a bird is flying over a roof",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000015956.jpg",
+    "caption": "a man walking a horse in a barn",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016010.jpg",
+    "caption": "a group of zebras grazing in a field",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016228.jpg",
+    "caption": "a horse pulling a carriage",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016249.jpg",
+    "caption": "a man sitting on a bench",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016439.jpg",
+    "caption": "a desk with a laptop and a lamp",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016451.jpg",
+    "caption": "a beach with a lot of surfboards and a few chairs",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016502.jpg",
+    "caption": "a sheep standing on a rocky hill",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016598.jpg",
+    "caption": "a woman with blue hair",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000016958.jpg",
+    "caption": "a living room with a fireplace and a chair",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017029.jpg",
+    "caption": "a dog catching a frck",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017031.jpg",
+    "caption": "the gi is brown and white",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017115.jpg",
+    "caption": "two zebras standing in a fenced area",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017178.jpg",
+    "caption": "a horse walking down the road",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017182.jpg",
+    "caption": "a blackboard on the wall",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017207.jpg",
+    "caption": "a bus on the road",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017379.jpg",
+    "caption": "a bathroom with a television in the mirror",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017436.jpg",
+    "caption": "a man sitting on a bench",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017627.jpg",
+    "caption": "a street with cars parked on it",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017714.jpg",
+    "caption": "a plate of food",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017899.jpg",
+    "caption": "a woman cutting up a sandwich on a table",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017905.jpg",
+    "caption": "a man standing next to a traffic light",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000017959.jpg",
+    "caption": "a group of kites flying in the air",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018150.jpg",
+    "caption": "a man and a child eating pizza",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018193.jpg",
+    "caption": "a woman sitting in a chair eating a piece of pizza",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018380.jpg",
+    "caption": "a group of people sitting around a table",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018491.jpg",
+    "caption": "a baseball player is sliding into home plate",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018519.jpg",
+    "caption": "a man riding a skateboard down a ramp",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018575.jpg",
+    "caption": "a tray with a sandwich and french fries",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018737.jpg",
+    "caption": "a red motorcycle parked on the side of the road",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018770.jpg",
+    "caption": "a man in a suit and tie looking at something",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018833.jpg",
+    "caption": "a cat sleeping on a pair of shoes",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000018837.jpg",
+    "caption": "a man is standing on the back of a green truck",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019042.jpg",
+    "caption": "a river with rocks",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019109.jpg",
+    "caption": "a row of parked scoots",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019221.jpg",
+    "caption": "a person holding a piece of brocco",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019402.jpg",
+    "caption": "a man and woman are sitting down on a bench",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019432.jpg",
+    "caption": "a man playing tennis",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019742.jpg",
+    "caption": "a picture frame with a candle and a vase",
+    "winrate_strong": 0.5,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019786.jpg",
+    "caption": "a man is standing in a living room",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000019924.jpg",
+    "caption": "a woman wearing a hat",
+    "winrate_strong": 0.5001,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000020059.jpg",
+    "caption": "two zebras eating grass",
+    "winrate_strong": 0.5003,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000020107.jpg",
+    "caption": "a fire hydrant on the sidewalk",
+    "winrate_strong": 0.5002,
+    "routed_model": "strong"
+  },
+  {
+    "filename": "000000020247.jpg",
+    "caption": "two bears walking on the road",
+    "winrate_strong": 0.5004,
+    "routed_model": "strong"
+  }
+]
